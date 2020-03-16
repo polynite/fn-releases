@@ -14,21 +14,23 @@ If you think something is wrong or if you would like to add something, open an i
 | Build version           | Engine version  | Net CL   | Build date | Manifest                                 | Notes      |
 | ----------------------- | --------------- | -------- | ---------- | ---------------------------------------- | ---------- |
 | Cert-CL-3541083         | 4.16.0-3541083  | 3536423  |            |                                          |            |
-| Release-Cert-CL-3681159 | 4.16.0-3681159  | 3603940  |            |                                          |            |
-| Release-Live-CL-3724489 | 4.16.0-3724489  | 3709086  |            |                                          | Patch 1.8  |
+| Release-Cert-CL-3681159 | 4.16.0-3681159  |          |            |                                          |            |
+| Release-Cert-CL-3700114 | 4.16.0-3700114  | 3603940  | 2017-09-17 |                                          | Patch 1.7  |
+| Release-Live-CL-3724489 | 4.16.0-3724489  | 3709086  | 2017-09-28 |                                          | Patch 1.8  |
 | Release-Cert-CL-3775276 | 4.16.0-3775276  | 3752911  |            |                                          |            |
-| Release-Cert-CL-3807424 | 4.19.0-3807424  | 3804408  |            |                                          | Patch 1.11 |
+| Release-Cert-CL-3790078 | 4.19.0-3790078  | 3752911  | 2017-12-05 |                                          | Patch 1.10 |
 
 # Season 2
-| Build version     | Engine version  | Net CL   | Build date | Manifest                                 |
-| ----------------- | --------------- | -------- | ---------- | ---------------------------------------- |
-| 2.1.0             |                 |          |            |                                          |
-| 2.2.0             |                 |          |            |                                          |
-| 2.3.0             |                 |          |            |                                          |
-| 2.4.0             |                 |          |            |                                          |
-| 2.4.2             |                 |          |            |                                          |
-| 2.4.x-CL-3876086  |                 |          |            |                                          |
-| 2.5-CL-3889387    |                 |          |            |                                          |
+| Build version           | Engine version  | Net CL   | Build date | Manifest                                 | Notes      |
+| -----------------       | --------------- | -------- | ---------- | ---------------------------------------- | ---------- |
+| Release-Cert-CL-3807424 | 4.19.0-3807424  | 3804408  |            |                                          | Patch 1.11 |
+| Release-Cert-CL-3825894 | 4.19.0-3825894  | 3824727  | 2018-01-08 |                                          | Patch 2.1  |
+| 2.2.0                   |                 |          |            |                                          |            |
+| 2.3.0                   |                 |          |            |                                          |            |
+| 2.4.0                   |                 |          |            |                                          |            |
+| 2.4.2                   |                 |          |            |                                          |            |
+| 2.4.x-CL-3876086        |                 |          |            |                                          |            |
+| 2.5-CL-3889387          |                 |          |            |                                          |            |
 
 # Season 3
 | Build version     | Engine version  | Net CL   | Build date | Manifest                                 |
@@ -41,7 +43,7 @@ If you think something is wrong or if you would like to add something, open an i
 | 3.3-CL-3948073    |                 |          |            |                                          |
 | 3.4-CL-3973340    | 4.20.0-3973340  | 3966836  |            |                                          |
 | 3.5-CL-3994867    |                 |          |            |                                          |
-| 3.5-CL-4000805    | 4.20.0-4000805  | 3991976  |            |                                          |
+| 3.5.2-CL-4000805  | 4.20.0-4000805  | 3991976  | 2018-04-12 |                                          |
 | 3.5-CL-4008490    |                 |          |            |                                          |
 | 3.6-CL-4019403    | 4.20.0-4019403  | 4013257  | 2018-04-22 |                                          |
 
@@ -50,7 +52,7 @@ If you think something is wrong or if you would like to add something, open an i
 | ----------------- | --------------- | -------- | ---------- | ---------------------------------------- |
 | 4.0-CL-4039451    | 4.20.0-4039451  | 4032695  | 2018-04-29 | REvHap8Be76174fe73914ba99a652ef722c0bd8c |
 | 4.1-CL-4053532    |                 |          |            | LjhtJU7of2d3a380321f4257a791df5f165d1dea |
-| 4.2-CL-4072250    |                 |          |            |                                          |
+| 4.2-CL-4072250    | 4.20.0-4072250  | 4066866  | 2018-05-14 |                                          |
 | 4.3               |                 |          |            |                                          |
 | 4.4.x-CL-4132537  |                 |          |            |                                          |
 | 4.5-CL-4159770    | 4.20.0-4159770  | 4148992  |            |                                          |
@@ -92,7 +94,7 @@ If you think something is wrong or if you would like to add something, open an i
 | 7.30-CL-4834550   |                 |          |            |                                          |
 | 7.30-CL-4869070   |                 |          |            |                                          |
 | 7.40-CL-4996168   |                 |          |            |                                          |
-| 7.40-CL-5046157   |                 |          |            | Q8ph88FxJtDqcyJmvUaG6fHzDtjJZA           |
+| 7.40-CL-5046157   | 4.22.0-5046157  | 4774386  | 2019-02-18 | Q8ph88FxJtDqcyJmvUaG6fHzDtjJZA           |
 
 # Season 8
 | Build version     | Engine version  | Net CL   | Build date | Manifest                                 |
