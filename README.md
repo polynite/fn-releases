@@ -172,4 +172,4 @@ If you think something is wrong or if you would like to add something, open an i
 | 12.20-CL-12170032 |                 |          |            | SkZEU_IJTiW1z-hvyUCQY4AonuHmJQ           |
 | 12.20-CL-12236980 |                 |          |            | mVCAttTZSI3CLUbvdEmn1Yu08271-w           |
 | 12.21-CL-12353830 |                 |          |            | 9_K5hT-t-j1KPiPCXkCzWNSsvzDRTw           |
-| 12.30-CL-12493283 |                 |          |            | X-9EArNutqedIqnak0u3fARhNtBvYg           |
+| 12.30-CL-12493283 | 4.25.0-12493283 | 11937518 | 2020-03-31 | X-9EArNutqedIqnak0u3fARhNtBvYg           |
