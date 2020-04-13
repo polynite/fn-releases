@@ -160,13 +160,13 @@ If you think something is wrong or if you would like to add something, open an i
 | 11.31-CL-10760473 |                 |          |            | Dp8ZQlhdJ9tyQRRMGkO3gpZgQMGZmw           |
 | 11.31-CL-10795579 |                 |          |            | M6XhmsGG8zV2O9EOkkqfKOfb9CBNeA           |
 | 11.31-CL-10800459 |                 |          |            | I9bgKLDRd2f-FvbbCkiyhu_u2eczYg           |
-| 11.40-CL-11039906 |                 |          |            |                                          |
+| 11.40-CL-11039906 |                 |          |            | gWTicfkWyAH3_8fpQEixmSUn0qhcSA           |
 | 11.50-CL-11265652 |                 |          |            | o8omInZNucJoBbOSh0iU2JCJW5aV9w           |
 
 # Season 12
 | Build version     | Engine version  | Net CL   | Build date | Manifest                                 |
 | ----------------- | --------------- | -------- | ---------- | ---------------------------------------- |
-| 12.00-CL-11556442 |                 |          |            |                                          |
+| 12.00-CL-11556442 |                 |          |            | dLIo12SBCCJ13prtkEux9bq75peaaA           |
 | 12.00-CL-11586896 |                 |          |            |                                          |
 | 12.10-CL-11883027 | 4.25.0-11883027 | 11373304 | 2020-03-03 | 19R3rvzj1VXoJVLUlEyfNTi0HPeztQ           |
 | 12.20-CL-12170032 |                 |          |            | SkZEU_IJTiW1z-hvyUCQY4AonuHmJQ           |
