@@ -175,4 +175,5 @@ If you think something is wrong or if you would like to add something, open an i
 | 12.21-CL-12353830 |                 |          |            | 9_K5hT-t-j1KPiPCXkCzWNSsvzDRTw           |
 | 12.30-CL-12493283 | 4.25.0-12493283 | 11937518 | 2020-03-31 | X-9EArNutqedIqnak0u3fARhNtBvYg           |
 | 12.30-CL-12624643 |                 |          |            | 4lcktXU--gKJ8XJo3EGtkKzNBGyGdQ           |
-| 12.40-CL-12837456 |                 |          |            | d_Or-l0fAsszcitXgE-_9nI4-TANLg           |
+| 12.40-CL-12837456 |                 |          |            | d_Or-l0fAsszcitXgE-\_9nI4-TANLg          |
+| 12.41-CL-12905909 | 4.25.0-12905261 | 12582667 | 2020-04-18 | jTfg_xZZ2H4T9L__PEmzI2Y90hr9Aw           |
