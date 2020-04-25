@@ -155,7 +155,7 @@ If you think something is wrong or if you would like to add something, open an i
 | 11.20-CL-10297577 |                 |          |            | nx1sa8DEmaw-9_I8YEiMZ50FaDr0AQ           |
 | 11.20-CL-10328358 | 4.24.0-10328358 | 9631285  | 2019-11-20 | WmJlwXvlu0LMLVGGqUmXPy93OQSFBw           |
 | 11.21-CL-10481509 | 4.24.0-10481509 | 10409462 | 2019-12-01 | fKa-ZiFTzVP69JIxIky1OfZ0KPZnMQ           |
-| 11.30-CL-10639804 |                 |          |            | b26Zho3UFXcmjFwIy0G8T4x3tbX1yA           |
+| 11.30-CL-10639804 | 4.24.0-10631834 | 10453562 | 2019-12-10 | b26Zho3UFXcmjFwIy0G8T4x3tbX1yA           |
 | 11.30-CL-10708866 |                 |          |            | DDQp02DHMVKums1CD0a5qa-GxxTxJg           |
 | 11.31-CL-10760473 |                 |          |            | Dp8ZQlhdJ9tyQRRMGkO3gpZgQMGZmw           |
 | 11.31-CL-10795579 |                 |          |            | M6XhmsGG8zV2O9EOkkqfKOfb9CBNeA           |
