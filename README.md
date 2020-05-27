@@ -183,4 +183,6 @@ If you think something is wrong or if you would like to add something, open an i
 | 12.50-CL-13044369 | 4.25.0-13044281 | 12895384 | 2020-04-24 | WFWEb9HuFddgR84jm0SHQAzLSw6u2g           |
 | 12.50-CL-13137020 |                 |          |            | gVGThRYKo0MZpIko_0mWf6b0MBCleA           |
 | 12.50-CL-13193885 |                 |          |            | Hz6B_sHg1yMiMfG5uUq93flJAlosuw           |
-| 12.60-CL-13315662 |                 |          |            | KVqZ_bGv9_ZjYaRWn0SwSEizJyeJiQ           |
+| 12.60-CL-13315662 | 4.25.0-13315662 | 12896485 | 2020-05-14 | KVqZ_bGv9_ZjYaRWn0SwSEizJyeJiQ           |
+| 12.60-CL-13477524 | 4.25.0-13477524 | 12896485 | 2020-05-20 | FgKMa-wCOesX6Abl1kifJYcLTuJ-5A           |
+| 12.61-CL-13498980 | 4.25.0-13498027 | 13228591 | 2020-05-22 | kpWEntSL0uNcIcH4ZUm6nFsFnar-3w           |
