@@ -212,3 +212,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 12.60-CL-13315662 | 4.25.0-13315662 | 12896485 | 2020-05-14 | KVqZ_bGv9_ZjYaRWn0SwSEizJyeJiQ           |
 | 12.60-CL-13477524 | 4.25.0-13477524 | 12896485 | 2020-05-20 | FgKMa-wCOesX6Abl1kifJYcLTuJ-5A           |
 | 12.61-CL-13498980 | 4.25.0-13498027 | 13228591 | 2020-05-22 | kpWEntSL0uNcIcH4ZUm6nFsFnar-3w           |
+
+# Season 13
+| Build version     | Engine version  | Net CL   | Build date | Manifest                                 |
+| ----------------- | --------------- | -------- | ---------- | ---------------------------------------- |
+| 13.00-CL-13649278 | 4.26.0-13649278 | 13032341 | 2020-06-08 | ZUQyNUHswApJSCYuokeA-Q7j60nFHg           |
