@@ -188,16 +188,18 @@ If you think something is wrong or if you would like to add something, open an i
 | 11.31-CL-10795579 |                 |          |            | M6XhmsGG8zV2O9EOkkqfKOfb9CBNeA           |
 | 11.31-CL-10800459 |                 |          |            | I9bgKLDRd2f-FvbbCkiyhu_u2eczYg           |
 | 11.40-CL-10951104 |                 |          |            | gWTicfkWyAH3_8fpQEixmSUn0qhcSA           |
-| 11.40-CL-11039906 |                 |          |            |                                          |
-| 11.40-CL-11109625 |                 |          |            |                                          |
+| 11.40-CL-11039906 | 4.24.0-11030119 | 10482997 |            | jpzvVty5Z5mmS0h9y0O72YRP0hTjFA           |
+| 11.40-CL-11109625 | 4.24.0-11101868 | 10482997 |            | MErWwWjI-gmQmpwUCE-smeOIJY_L-A           |
+| 11.50-CL-11204868 | 4.24.0-11204861 | 11116438 |            | skWUaAJHBVlghBWDmku50A2BNtOJ1Q           |
 | 11.50-CL-11265652 |                 |          |            | o8omInZNucJoBbOSh0iU2JCJW5aV9w           |
 
 # Season 12
 | Build version     | Engine version  | Net CL   | Build date | Manifest                                 |
 | ----------------- | --------------- | -------- | ---------- | ---------------------------------------- |
-| 12.00-CL-11556442 |                 |          |            | dLIo12SBCCJ13prtkEux9bq75peaaA           |
-| 12.00-CL-11586896 |                 |          |            |                                          |
-| 12.10-CL-11794982 |                 |          |            |                                          |
+| 12.00-CL-11556442 | 4.25.0-11556442 | 11339010 |            | dLIo12SBCCJ13prtkEux9bq75peaaA           |
+| 12.00-CL-11566760 | 4.25.0-11566760 | 11339010 |            | zQVuaHVgKVM7M0lDNUapSOMstSi93w           |
+| 12.00-CL-11586896 |                 |          |            | WG_A20YyTgZJqtTAikSFdl0DmX4pHw           |
+| 12.10-CL-11794982 | 4.25.0-11791551 | 11373304 |            | OZ1A766vl6Uj_Nf-C02US-sgDesERw           |
 | 12.10-CL-11883027 | 4.25.0-11883027 | 11373304 | 2020-03-03 | 19R3rvzj1VXoJVLUlEyfNTi0HPeztQ           |
 | 12.20-CL-12170032 |                 |          |            | SkZEU_IJTiW1z-hvyUCQY4AonuHmJQ           |
 | 12.20-CL-12236980 |                 |          |            | mVCAttTZSI3CLUbvdEmn1Yu08271-w           |
