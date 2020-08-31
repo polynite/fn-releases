@@ -225,11 +225,10 @@ If you think something is wrong or if you would like to add something, open an i
 | 13.30-CL-13884634 | 4.26.0-13882849 | 13704592 | 2020-07-17 | __d-73Y9siJhxSaCRE6egZe3gbpjNw |
 | 13.40-CL-14008768 | 4.26.0-14008768 | 13920814 | 2020-08-03 | r70n58nGmOBda57S_EST7qGOsLgPTw |
 | 13.40-CL-14036559 | 4.26.0-14036559 | 13920814 | 2020-08-05 | lxP7nVJQuqONDOBmy0eOuS3UycHqKA |
-| 13.40-CL-14113327 |                 |          |            | k39Q5tXfdlFV3Vi8tEWwdzJstOCncw |
+| 13.40-CL-14113327 | 4.26.0-14113082 | 13920814 | 2020-08-14 | k39Q5tXfdlFV3Vi8tEWwdzJstOCncw |
 
 # Season 14
-| Build version     | Engine version | Net CL | Build date | Manifest                       |
-| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
-| 14.00-CL-14173417 |                |        |            | WIYuFdTOCn_b67Mnik-Q0teZEIWd-Q |
-| 14.00-CL-14199892 |                |        |            | -IAv9taY4Yjn2jw5xU2l_BgrdMs8PQ |
-
+| Build version     | Engine version  | Net CL   | Build date | Manifest                       |
+| ----------------- | --------------- | -------- | ---------- | ------------------------------ |
+| 14.00-CL-14173417 | 4.26.0-14173417 | 14052934 | 2020-08-24 | WIYuFdTOCn_b67Mnik-Q0teZEIWd-Q |
+| 14.00-CL-14199892 | 4.26.0-14199892 | 14052934 | 2020-08-27 | -IAv9taY4Yjn2jw5xU2l_BgrdMs8PQ |
