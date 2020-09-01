@@ -9,7 +9,7 @@ If you think something is wrong or if you would like to add something, open an i
 **Build date:** Compilation date from `LogInit: Compiled (64-bit): `  
 **Manifest:** CDN manifest id  
 **Notes:** Any additional interesting notes
-
+
 # Season 1
 | Build version           | Engine version | Net CL  | Build date | Manifest | Notes      |
 | ----------------------- | -------------- | ------- | ---------- | -------- | ---------- |
@@ -232,3 +232,5 @@ If you think something is wrong or if you would like to add something, open an i
 | ----------------- | --------------- | -------- | ---------- | ------------------------------ |
 | 14.00-CL-14173417 | 4.26.0-14173417 | 14052934 | 2020-08-24 | WIYuFdTOCn_b67Mnik-Q0teZEIWd-Q |
 | 14.00-CL-14199892 | 4.26.0-14199892 | 14052934 | 2020-08-27 | -IAv9taY4Yjn2jw5xU2l_BgrdMs8PQ |
+| 14.00-CL-14211474 |                 |          |            | eV3odPpOFO5KqwyQaUqN6BRpXUIV1Q |
+
