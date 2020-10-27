@@ -240,4 +240,5 @@ If you think something is wrong or if you would like to add something, open an i
 | 14.20-CL-14384759 | 4.26.0-14382481 | 14267198 | 2020-09-23 | 08opnel1yrNVPmiQFkGQw7aDSvgUKg |
 | 14.30-CL-14456520 |                 |          |            | vSRBaHxfB_kuksWOEk2_PfUPG22MVw |
 | 14.40-CL-14512399 |                 |          |            | BQ1lc_hzhBmmkfMkv0i-kBwqATdi0w |
+| 14.40-CL-14550713 |                 |          |            | DClI318w-7eAMz2fmUuHgSkAlomU6g |
 
