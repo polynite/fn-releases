@@ -9,6 +9,7 @@ If you think something is wrong or if you would like to add something, open an i
 **Build date:** Compilation date from `LogInit: Compiled (64-bit): `  
 **Manifest:** CDN manifest id  
 **Notes:** Any additional interesting notes
+
 # Season 1
 | Build version           | Engine version | Net CL  | Build date | Manifest | Notes      |
 | ----------------------- | -------------- | ------- | ---------- | -------- | ---------- |
