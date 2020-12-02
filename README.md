@@ -250,3 +250,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 14.60-CL-14785135 |                 |          |            | J7nUADncwk2szmTXwE-6Apsbr0ChGg |
 | 14.60-CL-14786821 |                 |          |            | 0zBnTzhzHTTQw-bMo06bpGonsWK9AA |
 
+# Season 15
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 15.00-CL-14826719 |                |        |            | hEC9dL7-jjhVjaT9Ek6g5kPNmfx_oA |
+
