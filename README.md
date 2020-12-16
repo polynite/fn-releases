@@ -1,6 +1,7 @@
 # FN Releases
 This document includes all known Windows builds.  
-If you think something is wrong or if you would like to add something, open an issue or a pull request!
+If you think something is wrong or if you would like to add something, open an issue or a pull request!  
+**NOTE:** As of early December 2020 it appears that the manifests have been removed from the various CDNs. Going forward the full manifests will be stored in [manifests](/manifests).
 
 ## Legend
 **Build version:** Game build from `LogInit: Build: `  
