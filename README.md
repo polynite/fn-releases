@@ -1,6 +1,7 @@
 # FN Releases
 This document includes all known Windows builds.  
 If you think something is wrong or if you would like to add something, open an issue or a pull request!  
+
 **NOTE:** As of early December 2020 it appears that the manifests have been removed from the various CDNs. Going forward the full manifests will be stored in [manifests](/manifests).
 
 ## Legend
@@ -224,7 +225,7 @@ If you think something is wrong or if you would like to add something, open an i
 | 13.00-CL-13649278 | 4.26.0-13649278 | 13032341 | 2020-06-08 | ZUQyNUHswApJSCYuokeA-Q7j60nFHg |
 | 13.00-CL-13696059 | 4.26.0-13695873 | 13032341 | 2020-06-17 | 6w63WNDQ6fnOhOZ3SE-vegG_R-EQlg |
 | 13.00-CL-13715544 |                 |          |            | -HHPY5se-mwf2BiOLkSRJvaCWDUKnA |
-| 13.20-CL-13777676 | 4.26.0-13777557 | 13617966 | 2020-06-26 | ZUQyNUHswApJSCYuokeA-Q7j60nFHg |
+| 13.20-CL-13777676 | 4.26.0-13777557 | 13617966 | 2020-06-26 | zOUaEMjHOjnoHT50tEmEUqeJAT7mLA |
 | 13.30-CL-13884634 | 4.26.0-13882849 | 13704592 | 2020-07-17 | __d-73Y9siJhxSaCRE6egZe3gbpjNw |
 | 13.40-CL-14008768 | 4.26.0-14008768 | 13920814 | 2020-08-03 | r70n58nGmOBda57S_EST7qGOsLgPTw |
 | 13.40-CL-14036559 | 4.26.0-14036559 | 13920814 | 2020-08-05 | lxP7nVJQuqONDOBmy0eOuS3UycHqKA |
