@@ -13,15 +13,16 @@ If you think something is wrong or if you would like to add something, open an i
 **Notes:** Any additional interesting notes
 
 # Season 1
-| Build version           | Engine version | Net CL  | Build date | Manifest | Notes      |
-| ----------------------- | -------------- | ------- | ---------- | -------- | ---------- |
-| Cert-CL-3541083         | 4.16.0-3541083 | 3536423 | 2017-07-21 |          |            |
-| Release-Cert-CL-3681159 | 4.16.0-3681159 | 3603940 | 2017-10-05 |          |            |
-| Release-Cert-CL-3700114 | 4.16.0-3700114 | 3603940 | 2017-10-17 |          | Patch 1.7  |
-| Release-Live-CL-3724489 | 4.16.0-3724489 | 3709086 | 2017-10-25 |          | Patch 1.8  |
-| Release-Cert-CL-3775276 | 4.16.0-3775276 | 3752911 | 2017-11-29 |          | Patch 1.9  |
-| Release-Cert-CL-3785438 | 4.16.0-3785438 |         | 2017-12-02 |          |            |
-| Release-Cert-CL-3790078 | 4.19.0-3790078 | 3752911 | 2017-12-05 |          | Patch 1.10 |
+| Build version           | Engine version | Net CL  | Build date | Manifest | Notes       |
+| ----------------------- | -------------- | ------- | ---------- | -------- | ----------- |
+| Cert-CL-3541083         | 4.16.0-3541083 | 3536423 | 2017-07-21 |          |             |
+| Release-Cert-CL-3681159 | 4.16.0-3681159 | 3603940 | 2017-10-05 |          |             |
+| Release-Cert-CL-3700114 | 4.16.0-3700114 | 3603940 | 2017-10-17 |          | Patch 1.7   |
+| Release-Live-CL-3724489 | 4.16.0-3724489 | 3709086 | 2017-10-25 |          | Patch 1.8   |
+| Release-Live-CL-3757339 | 4.16.0-3757339 | 3752911 | 2017-11-14 |          | Patch 1.9   |
+| Release-Cert-CL-3775276 | 4.16.0-3775276 | 3752911 | 2017-11-29 |          | Patch 1.9.1 |
+| Release-Cert-CL-3785438 | 4.16.0-3785438 |         | 2017-12-02 |          |             |
+| Release-Cert-CL-3790078 | 4.19.0-3790078 | 3752911 | 2017-12-05 |          | Patch 1.10  |
 
 # Season 2
 | Build version           | Engine version | Net CL  | Build date | Manifest                                 | Notes      |
