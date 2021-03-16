@@ -274,3 +274,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 15.50-CL-15526472 |                |        |            | vJW5mNtj-KyKaUo26E2UeuDBXtgUNQ |
 | 15.50-CL-15570449 |                |        |            | N4qaUfEGF1WRgxFYSEK0dCyF-9DLfg |
 
+# Season 16
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 16.00-CL-15685441 |                |        |            | 0TUjehLQVK8zW6tqWkquGEm4QAE0xg |
+
