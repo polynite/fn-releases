@@ -278,4 +278,5 @@ If you think something is wrong or if you would like to add something, open an i
 | Build version     | Engine version | Net CL | Build date | Manifest                       |
 | ----------------- | -------------- | ------ | ---------- | ------------------------------ |
 | 16.00-CL-15685441 |                |        |            | 0TUjehLQVK8zW6tqWkquGEm4QAE0xg |
+| 16.00-CL-15713390 |                |        |            | 2N-wx7hYkt8Ni7lBDkausAkNOmtdoA |
 
