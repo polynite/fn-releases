@@ -276,7 +276,7 @@ If you think something is wrong or if you would like to add something, open an i
 
 # Season 16
 | Build version     | Engine version  | Net CL   | Build date | Manifest                       |
-| ----------------- | --------------  | ------   | ---------- | ------------------------------ |
+| ----------------- | --------------- | -------- | ---------- | ------------------------------ |
 | 16.00-CL-15685441 |                 |          |            | 0TUjehLQVK8zW6tqWkquGEm4QAE0xg |
 | 16.00-CL-15713390 |                 |          |            | 2N-wx7hYkt8Ni7lBDkausAkNOmtdoA |
 | 16.00-CL-15727376 |                 |          |            | sjtPnOPJGVjpCn_MeU62f4dUQqSe4g |
