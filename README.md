@@ -126,19 +126,19 @@ If you think something is wrong or if you would like to add something, open an i
 # Season 8
 | Build version   | Engine version | Net CL  | Build date | Manifest                       |
 | --------------- | -------------- | ------- | ---------- | ------------------------------ |
-| 8.00-CL-5203069 | 4.22.0-5203069 | 4918548 | 2018-02-28 | NG07wjIyXZIU9qkeTUK1F4TqJ4bmTQ |
-| 8.00-CL-5251086 |                |         | 2018-02-28 |                                |
-| 8.00-CL-5274521 |                |         | 2018-02-28 |                                |
-| 8.01-CL-5285981 |                |         | 2018-03-05 |                                |
-| 8.10-CL-5362200 |                |         | 2018-03-12 |                                |
-| 8.10-CL-5372009 | 4.22.0-5372009 | 5087669 | 2018-03-12 |                                |
-| 8.11-CL-5442615 |                |         | 2018-03-20 |                                |
-| 8.11-CL-5484841 |                |         | 2018-03-20 |                                |
-| 8.20-CL-5547534 |                |         | 2018-03-27 |                                |
-| 8.20-CL-5625478 |                |         | 2018-03-27 | x38m5mG7upd9og3yGE-ueFK_O6BIQw |
-| 8.30-CL-5793395 |                |         | 2018-04-10 | AIwH4n9OxkItTP-mm0WaczfFJMvz3g |
-| 8.30-CL-5822617 |                |         | 2018-04-10 |                                |
-| 8.30-CL-5831510 | 4.23.0-5831497 | 5466044 | 2018-04-10 |                                |
+| 8.00-CL-5203069 | 4.22.0-5203069 | 4918548 | 2019-02-28 | NG07wjIyXZIU9qkeTUK1F4TqJ4bmTQ |
+| 8.00-CL-5251086 |                |         | 2019-02-28 |                                |
+| 8.00-CL-5274521 |                |         | 2019-02-28 |                                |
+| 8.01-CL-5285981 |                |         | 2019-03-05 |                                |
+| 8.10-CL-5362200 |                |         | 2019-03-12 |                                |
+| 8.10-CL-5372009 | 4.22.0-5372009 | 5087669 | 2019-03-12 |                                |
+| 8.11-CL-5442615 |                |         | 2019-03-20 |                                |
+| 8.11-CL-5484841 |                |         | 2019-03-20 |                                |
+| 8.20-CL-5547534 |                |         | 2019-03-27 |                                |
+| 8.20-CL-5625478 |                |         | 2019-03-27 | x38m5mG7upd9og3yGE-ueFK_O6BIQw |
+| 8.30-CL-5793395 |                |         | 2019-04-10 | AIwH4n9OxkItTP-mm0WaczfFJMvz3g |
+| 8.30-CL-5822617 |                |         | 2019-04-10 |                                |
+| 8.30-CL-5831510 | 4.23.0-5831497 | 5466044 | 2019-04-10 |                                |
 | 8.40-CL-5914491 |                |         | 2019-04-18 |                                |
 | 8.40-CL-6005771 | 4.23.0-6005771 | 5579613 | 2019-04-18 | s0i1dCn0kmzuWgbk90G0_cs8MN2qiw |
 | 8.50-CL-6058028 | 4.23.0-6058028 | 5579635 | 2019-04-23 | 7Om3eXVxOTO5r1vO-ES5AE-fKKwg1w |
@@ -275,13 +275,13 @@ If you think something is wrong or if you would like to add something, open an i
 | 15.50-CL-15570449 |                |        |            | N4qaUfEGF1WRgxFYSEK0dCyF-9DLfg |
 
 # Season 16
-| Build version     | Engine version | Net CL | Build date | Manifest                       |
-| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
-| 16.00-CL-15685441 |                |        |            | 0TUjehLQVK8zW6tqWkquGEm4QAE0xg |
-| 16.00-CL-15713390 |                |        |            | 2N-wx7hYkt8Ni7lBDkausAkNOmtdoA |
-| 16.00-CL-15727376 |                |        |            | sjtPnOPJGVjpCn_MeU62f4dUQqSe4g |
-| 16.10-CL-15851811 |                |        |            | L9rTqg1OLlwprMBpdUaiNYI4-yUc5Q |
-| 16.10-CL-15862581 |                |        |            | CIwICRP-E1flI4b-XUWFsQdska-RbQ |
-| 16.10-CL-15883297 |                |        |            | -rvrkgHU7oWbYnwuPES1P2BfFi7QMQ |
-| 16.10-CL-15898731 |                |        |            | RIbiJD1siAR2cVG_wUuKp5lPxnvCkw |
+| Build version     | Engine version  | Net CL   | Build date | Manifest                       |
+| ----------------- | --------------- | -------- | ---------- | ------------------------------ |
+| 16.00-CL-15685441 |                 |          |            | 0TUjehLQVK8zW6tqWkquGEm4QAE0xg |
+| 16.00-CL-15713390 |                 |          |            | 2N-wx7hYkt8Ni7lBDkausAkNOmtdoA |
+| 16.00-CL-15727376 |                 |          |            | sjtPnOPJGVjpCn_MeU62f4dUQqSe4g |
+| 16.10-CL-15851811 | 4.26.1-15851811 | 15555259 | 2021-03-29 | L9rTqg1OLlwprMBpdUaiNYI4-yUc5Q |
+| 16.10-CL-15862581 | 4.26.1-15862581 | 15555259 | 2021-03-30 | CIwICRP-E1flI4b-XUWFsQdska-RbQ |
+| 16.10-CL-15883297 |                 |          |            | -rvrkgHU7oWbYnwuPES1P2BfFi7QMQ |
+| 16.10-CL-15898731 | 4.26.1-15898731 | 15555259 | 2021-04-02 | RIbiJD1siAR2cVG_wUuKp5lPxnvCkw |
 
