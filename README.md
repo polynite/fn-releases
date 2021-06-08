@@ -295,3 +295,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 16.50-CL-16432754 |                 |          |            | myacVPh3VDv1zXI4Z0OpAVE76zqoiQ |
 | 16.50-CL-16469788 |                 |          |            | JoLlB3IhtR6FpOfjYEuCkElNi5yxOA |
 
+# Season 17
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 17.00-CL-16555138 |                |        |            | r01_i6Vdba86jyg6K0mmOLfNO_rmAw |
+
