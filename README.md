@@ -299,4 +299,5 @@ If you think something is wrong or if you would like to add something, open an i
 | Build version     | Engine version | Net CL | Build date | Manifest                       |
 | ----------------- | -------------- | ------ | ---------- | ------------------------------ |
 | 17.00-CL-16555138 |                |        |            | r01_i6Vdba86jyg6K0mmOLfNO_rmAw |
+| 17.00-CL-16593740 |                |        |            | nowzVL6UKD9nC3vhPEuIX1kZWIez0Q |
 
