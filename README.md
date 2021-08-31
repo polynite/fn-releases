@@ -15,7 +15,7 @@ If you think something is wrong or if you would like to add something, open an i
 # Season 1
 | Build version           | Engine version | Net CL  | Build date | Manifest | Notes       |
 | ----------------------- | -------------- | ------- | ---------- | -------- | ----------- |
-| Cert-CL-3541083         | 4.16.0-3541083 | 3536423 | 2017-07-21 |          |             |
+| Cert-CL-3541083         | 4.16.0-3541083 | 3536423 | 2017-07-21 |          | Patch 1.2   |
 | Release-Cert-CL-3681159 | 4.16.0-3681159 | 3603940 | 2017-10-05 |          |             |
 | Release-Cert-CL-3700114 | 4.16.0-3700114 | 3603940 | 2017-10-17 |          | Patch 1.7   |
 | Release-Live-CL-3724489 | 4.16.0-3724489 | 3709086 | 2017-10-25 |          | Patch 1.8   |
