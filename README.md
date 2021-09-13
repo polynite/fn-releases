@@ -312,3 +312,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 17.50-CL-17328477 |                |        |            | 3s5iqjYc82CMkzQWx0CqVuDf0r3xhg |
 | 17.50-CL-17388565 |                |        |            | hbkx_qhpofyAGF3VQUaU-0ke3WwKBg |
 
+# Season 18
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 18.00-CL-17468642 |                |        |            | mh3_CA8IVhnXD5PIZkKw-9yyY0jaQw |
+
