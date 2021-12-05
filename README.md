@@ -313,20 +313,20 @@ If you think something is wrong or if you would like to add something, open an i
 | 17.50-CL-17388565 |                |        |            | hbkx_qhpofyAGF3VQUaU-0ke3WwKBg |
 
 # Season 18
-| Build version     | Engine version | Net CL | Build date | Manifest                       |
-| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
-| 18.00-CL-17468642 |                |        |            | mh3_CA8IVhnXD5PIZkKw-9yyY0jaQw |
-| 18.00-CL-17519952 |                |        |            | j8Xdl9aEhZ-WkNenIUywKT0MrOAoxA |
-| 18.10-CL-17619277 |                |        |            | 5aOpBhE4Ru3-v2YFzUSGGuWGdEzyXQ |
-| 18.10-CL-17661844 |                |        |            | hu7N3s__H28na2Oro06-draLSCt5UQ |
-| 18.20-CL-17745267 |                |        |            | NVDpDsRkObzIXej9LkeokHUwMj2B_A |
-| 18.20-CL-17792290 |                |        |            | BfWO8e9010Z7Rt1wVUWCYBt5X-EhOQ |
-| 18.21-CL-17811397 |                |        |            | OW-ufOH2A5Ofv8BdZkqkK7BdOh5_lg |
-| 18.30-CL-17882303 |                |        |            | qtQkupWgkRT0VojLbEyVUX_v2CJsPA |
-| 18.40-CL-18163738 |                |        |            | BIZ9URud-wgSnyLid0OGLukI37r96A |
+| Build version     | Engine version  | Net CL   | Build date | Manifest                       |
+| ----------------- | --------------- | -------- | ---------- | ------------------------------ |
+| 18.00-CL-17468642 |                 |          |            | mh3_CA8IVhnXD5PIZkKw-9yyY0jaQw |
+| 18.00-CL-17519952 |                 |          |            | j8Xdl9aEhZ-WkNenIUywKT0MrOAoxA |
+| 18.10-CL-17619277 |                 |          |            | 5aOpBhE4Ru3-v2YFzUSGGuWGdEzyXQ |
+| 18.10-CL-17661844 |                 |          |            | hu7N3s__H28na2Oro06-draLSCt5UQ |
+| 18.20-CL-17745267 |                 |          |            | NVDpDsRkObzIXej9LkeokHUwMj2B_A |
+| 18.20-CL-17792290 |                 |          |            | BfWO8e9010Z7Rt1wVUWCYBt5X-EhOQ |
+| 18.21-CL-17811397 |                 |          |            | OW-ufOH2A5Ofv8BdZkqkK7BdOh5_lg |
+| 18.30-CL-17882303 |                 |          |            | qtQkupWgkRT0VojLbEyVUX_v2CJsPA |
+| 18.40-CL-18163738 | 4.26.1-18163738 | 18045599 | 2021-11-12 | BIZ9URud-wgSnyLid0OGLukI37r96A |
 
 # Season 19
-| Build version     | Engine version | Net CL | Build date | Manifest                       |
-| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
-| 19.00-CL-18335626 |                |        |            | 3jmxoAS1Tgz9gq7E-0aS-x8K-VGl-Q |
+| Build version     | Engine version | Net CL   | Build date | Manifest                       |
+| ----------------- | -------------- | -------- | ---------- | ------------------------------ |
+| 19.00-CL-18335626 | 5.0.1-18335626 | 18081605 | 2021-12-01 | 3jmxoAS1Tgz9gq7E-0aS-x8K-VGl-Q |
 
