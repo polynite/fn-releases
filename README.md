@@ -325,3 +325,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 18.30-CL-17882303 |                |        |            | qtQkupWgkRT0VojLbEyVUX_v2CJsPA |
 | 18.40-CL-18163738 |                |        |            | BIZ9URud-wgSnyLid0OGLukI37r96A |
 
+# Season 19
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 19.00-CL-18335626 |                |        |            | 3jmxoAS1Tgz9gq7E-0aS-x8K-VGl-Q |
+
