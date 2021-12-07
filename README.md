@@ -329,4 +329,5 @@ If you think something is wrong or if you would like to add something, open an i
 | Build version     | Engine version | Net CL   | Build date | Manifest                       |
 | ----------------- | -------------- | -------- | ---------- | ------------------------------ |
 | 19.00-CL-18335626 | 5.0.1-18335626 | 18081605 | 2021-12-01 | 3jmxoAS1Tgz9gq7E-0aS-x8K-VGl-Q |
+| 19.00-CL-18380290 |                |          |            | cNHihchpitbEYAXS-EKrV5kp-IZt3A |
 
