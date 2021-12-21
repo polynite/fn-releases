@@ -331,4 +331,5 @@ If you think something is wrong or if you would like to add something, open an i
 | 19.00-CL-18335626 | 5.0.1-18335626 | 18081605 | 2021-12-01 | 3jmxoAS1Tgz9gq7E-0aS-x8K-VGl-Q |
 | 19.00-CL-18380290 |                |          |            | cNHihchpitbEYAXS-EKrV5kp-IZt3A |
 | 19.01-CL-18415863 |                |          |            | qU41bqg7uhIaWfNN40-Fp093MSdhBQ |
+| 19.01-CL-18489740 |                |          |            | sr6SWap2l2Th30T0yEu2Ux55PgJiJg |
 
