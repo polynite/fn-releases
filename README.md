@@ -12,6 +12,14 @@ If you think something is wrong or if you would like to add something, open an i
 **Manifest:** CDN manifest id  
 **Notes:** Any additional interesting notes
 
+
+# Alpha
+| Build version           | Engine version | Net CL  | Build date | Manifest | Notes          |
+| ----------------------- | -------------- | ------- | ---------- | -------- | -------------- |
+| Release-Live-CL-2870186 | 4.12.0-2870186 |         | 2016-02-17 |          | OT6.5 - 32bits |
+| Release-Live-CL-3240987 | 4.14.0-3240987 |         | 2016-06-01 |          |                |
+
+
 # Season 1
 | Build version           | Engine version | Net CL  | Build date | Manifest | Notes       |
 | ----------------------- | -------------- | ------- | ---------- | -------- | ----------- |
