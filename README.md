@@ -341,3 +341,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 19.40-CL-19167615 |                |          |            | wILco71Qnua2z_S18Uq_kNuR2BWe_g |
 | 19.40-CL-19215531 |                |          |            | gbEURBYqoXFtBOGD_kqR3AaHo8H_og |
 
+# Season 20
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 20.00-CL-19381079 |                |        |            | 6KF2p_eL4gOQcGQ9WUu1gs_RcqjxRw |
+
