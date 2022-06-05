@@ -355,3 +355,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 20.40-CL-20175294 |                |        |            | IxyCDxsNwIB8fOka9kizbvHJ2q3J8w |
 | 20.40-CL-20244966 |                |        |            | b0olgg0z0UhYUqjbukqGxSxCfxHNWQ |
 
+# Season 21
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 21.00-CL-20463113 |                |        |            | BYoPt8OAt4JoMUHx9UC9ERHSMU776w |
+
