@@ -374,3 +374,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 21.50-CL-21657658 |                |        |            | gDM5ebFV-IqAKqn6DE2RAorEPOnqxQ |
 | 21.51-CL-21735703 |                |        |            | WC8F4eb-B7ndkPA6sEi8eDz5zJ4kRQ |
 
+# Season 22
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 22.00-CL-22026835 |                |        |            | p2uWIQyT-J9hCjQkQEGYLcp8HOEbog |
+
