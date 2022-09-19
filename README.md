@@ -378,4 +378,5 @@ If you think something is wrong or if you would like to add something, open an i
 | Build version     | Engine version | Net CL | Build date | Manifest                       |
 | ----------------- | -------------- | ------ | ---------- | ------------------------------ |
 | 22.00-CL-22026835 |                |        |            | p2uWIQyT-J9hCjQkQEGYLcp8HOEbog |
+| 22.00-CL-22072684 |                |        |            | yN1RChX_YYuE_JfOhkeDj3wNX0d4QQ |
 
