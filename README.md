@@ -388,3 +388,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 22.30-CL-22803135 |                |        |            | DgvMjqMEz8KeBdRCJ0i_Biev3Eb-2Q |
 | 22.40-CL-23070899 |                |        |            | yTUVvOU-BiOQgUeuLkavho8cCAt9_g |
 
+# Season 23
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 23.00-CL-23344627 |                |        |            | rI9ROK-1oURsD0RM6UqYcNk1sArzAw |
+
