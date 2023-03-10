@@ -402,3 +402,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 23.50-CL-24376996 |                |        |            | C8ZLjobIjxekABgdg0205oguOObXfQ |
 | 23.50-CL-24441668 |                |        |            | xi9aV9FCJaEpqYcwEkGla0jYnLjjWw |
 
+# Season 24
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 24.00-CL-24554913 |                |        |            | J5azCyfV2jn3eZtiw0aqsyZiwQJsZg |
+
