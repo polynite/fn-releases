@@ -420,3 +420,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 24.40-CL-25521145 |                |        |            | Wi3PzpC9YlzGQAyqJE2XDzUJP-aBIg |
 | 24.40-CL-25595478 |                |        |            | fVxH4TNQnx8Cfzq2GkKq1VTK1BQeJw |
 
+# Season 25
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 25.00-CL-25784668 |                |        |            | g5VjWQg55a48ElUgNEiXpXYA_7xDxA |
+
