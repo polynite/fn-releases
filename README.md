@@ -431,3 +431,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 25.20-CL-26629111 |                |        |            | L3MuneAYL7-WM5YBFk6OtxGSl5DeHw |
 | 25.30-CL-26867995 |                |        |            | xEYdLync_S_cqC_wI0W3MelBYX1nvg |
 
+# Season 26
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 26.00-CL-27233190 |                |        |            | k3pvBY__gYAhQAV2pUS0NYGb2dcbxg |
+
