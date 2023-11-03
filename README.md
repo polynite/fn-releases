@@ -441,3 +441,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 26.30-CL-28509302 |                |        |            | 549PGQv1etyjcGojW0W4sZO5D_DotA |
 | 26.30-CL-28688692 |                |        |            | AJ02zs2tnKO9TnyH2E2eh8i26kE57w |
 
+# Season 27
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 27.00-CL-29072304 |                |        |            | 9D35cLnDuvbycWfihUeiuR6MP7PcRA |
+
