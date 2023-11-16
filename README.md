@@ -445,4 +445,5 @@ If you think something is wrong or if you would like to add something, open an i
 | Build version     | Engine version | Net CL | Build date | Manifest                       |
 | ----------------- | -------------- | ------ | ---------- | ------------------------------ |
 | 27.00-CL-29072304 |                |        |            | 9D35cLnDuvbycWfihUeiuR6MP7PcRA |
+| 27.10-CL-29552510 |                |        |            | jCqdkjlhCqXO8734Zkmpi8Lp4vUHeA |
 
