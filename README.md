@@ -448,3 +448,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 27.10-CL-29552510 |                |        |            | jCqdkjlhCqXO8734Zkmpi8Lp4vUHeA |
 | 27.11-CL-29739262 |                |        |            | AtunKhtPq4NHVe1fwkynsUmQJyFEtw |
 
+# Season 28
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 28.00-CL-29915848 |                |        |            | CuLv_l0LuQM0W19qRkWTfZDUk0GmpQ |
+
