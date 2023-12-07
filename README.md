@@ -452,4 +452,5 @@ If you think something is wrong or if you would like to add something, open an i
 | Build version     | Engine version | Net CL | Build date | Manifest                       |
 | ----------------- | -------------- | ------ | ---------- | ------------------------------ |
 | 28.00-CL-29915848 |                |        |            | CuLv_l0LuQM0W19qRkWTfZDUk0GmpQ |
+| 28.01-CL-30106568 |                |        |            | KojsOReYLS2yfFapo0Wbw8JxValkeg |
 
