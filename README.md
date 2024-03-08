@@ -460,3 +460,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 28.20-CL-31286935 |                |        |            | 9eBVw8XMOirjbVeHl0me_LXIgQNUPg |
 | 28.30-CL-31511038 |                |        |            | 6rnGKJUE4ZR1wE8YbEipgborM43rVQ |
 
+# Season 29
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 29.00-CL-31978752 |                |        |            | QccYpugPQyAKo9cNEEKmwddeRykmKg |
+
