@@ -1,5 +1,5 @@
 # FN Releases
-This document includes all known Windows builds.  
+This document includes all known Windows public release builds.  
 If you think something is wrong or if you would like to add something, open an issue or a pull request!  
 
 **NOTE:** As of early December 2020 it appears that the manifests have been removed from the various CDNs. Going forward the full manifests will be stored in [manifests](/manifests).
@@ -387,22 +387,20 @@ If you think something is wrong or if you would like to add something, open an i
 | 22.20-CL-22600409 |                |        |            | 0ImR0jb_0dnUkK5Z6ka0OBkpv7iKsg |
 | 22.30-CL-22803135 |                |        |            | DgvMjqMEz8KeBdRCJ0i_Biev3Eb-2Q |
 | 22.40-CL-23070899 |                |        |            | yTUVvOU-BiOQgUeuLkavho8cCAt9_g |
-| 22.35-CL-23210688 |                |        |            |                                |
 
 # Season 23
-| Build version          | Engine version | Net CL | Build date | Manifest                       |
-| -----------------------| -------------- | ------ | ---------- | ------------------------------ |
-| 23.00-CL-23344627      | 5.1.0-23344627 |        | 2022-12-01 | rI9ROK-1oURsD0RM6UqYcNk1sArzAw |
-| 23.10-CL-23443094      |                |        |            | _gVrOnugeJossBkVEk2msv4jt9FDvg |
-| 23.10-CL-23572221      |                |        |            | w2lgMFMmd79UdXHtlUWxH9EZ3U_jEw |
-| 23.10.UEFN-CL-23608372 |                |        |            |                                |
-| 23.20-CL-23659353      |                |        |            | GONPEW1klCRTH0RBCUu1g52Qn4hPlA |
-| 23.20-CL-23783097      |                |        |            | sK5yWrlEOlMO7_YwZECGi9P8vIS4yg |
-| 23.30-CL-23901854      |                |        |            | juYYQy4X7Lw6BIiW0ECjs0VMaCrUtQ |
-| 23.30-CL-23986860      |                |        |            | gRZwhI2VURgAbV5WAE2GzFXNmyD6yA |
-| 23.40-CL-24087481      |                |        |            | ogescm5CttfncfGWbUa1-EfOJSI86w |
-| 23.50-CL-24376996      |                |        |            | C8ZLjobIjxekABgdg0205oguOObXfQ |
-| 23.50-CL-24441668      |                |        |            | xi9aV9FCJaEpqYcwEkGla0jYnLjjWw |
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ------------------| -------------- | ------ | ---------- | ------------------------------ |
+| 23.00-CL-23344627 | 5.1.0-23344627 |        | 2022-12-01 | rI9ROK-1oURsD0RM6UqYcNk1sArzAw |
+| 23.10-CL-23443094 |                |        |            | _gVrOnugeJossBkVEk2msv4jt9FDvg |
+| 23.10-CL-23572221 |                |        |            | w2lgMFMmd79UdXHtlUWxH9EZ3U_jEw |
+| 23.20-CL-23659353 |                |        |            | GONPEW1klCRTH0RBCUu1g52Qn4hPlA |
+| 23.20-CL-23783097 |                |        |            | sK5yWrlEOlMO7_YwZECGi9P8vIS4yg |
+| 23.30-CL-23901854 |                |        |            | juYYQy4X7Lw6BIiW0ECjs0VMaCrUtQ |
+| 23.30-CL-23986860 |                |        |            | gRZwhI2VURgAbV5WAE2GzFXNmyD6yA |
+| 23.40-CL-24087481 |                |        |            | ogescm5CttfncfGWbUa1-EfOJSI86w |
+| 23.50-CL-24376996 |                |        |            | C8ZLjobIjxekABgdg0205oguOObXfQ |
+| 23.50-CL-24441668 |                |        |            | xi9aV9FCJaEpqYcwEkGla0jYnLjjWw |
 
 # Season 24
 | Build version     | Engine version | Net CL | Build date | Manifest                       |
