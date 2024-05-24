@@ -474,3 +474,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 29.40-CL-33502036 |                |        |            | 6Paq4Hh0JRRG-B84H0Sedout7g-_fg |
 | 29.40-CL-33629566 |                |        |            | w0RPuFOxVVMSrBvizUa4g8PCYiRedw |
 
+# Season 30
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 30.00-CL-33760522 |                |        |            | 28HcEgy7v5S-xhFEBU65IQzhQcfymQ |
+
