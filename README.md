@@ -390,7 +390,7 @@ If you think something is wrong or if you would like to add something, open an i
 
 # Season 23
 | Build version     | Engine version | Net CL | Build date | Manifest                       |
-| ------------------| -------------- | ------ | ---------- | ------------------------------ |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
 | 23.00-CL-23344627 | 5.1.0-23344627 |        | 2022-12-01 | rI9ROK-1oURsD0RM6UqYcNk1sArzAw |
 | 23.10-CL-23443094 |                |        |            | _gVrOnugeJossBkVEk2msv4jt9FDvg |
 | 23.10-CL-23572221 |                |        |            | w2lgMFMmd79UdXHtlUWxH9EZ3U_jEw |
