@@ -1,5 +1,5 @@
 # FN Releases
-This document includes all known Windows builds.  
+This document includes all known Windows public release builds.  
 If you think something is wrong or if you would like to add something, open an issue or a pull request!  
 
 **NOTE:** As of early December 2020 it appears that the manifests have been removed from the various CDNs. Going forward the full manifests will be stored in [manifests](/manifests).
@@ -391,7 +391,7 @@ If you think something is wrong or if you would like to add something, open an i
 # Season 23
 | Build version     | Engine version | Net CL | Build date | Manifest                       |
 | ----------------- | -------------- | ------ | ---------- | ------------------------------ |
-| 23.00-CL-23344627 |                |        |            | rI9ROK-1oURsD0RM6UqYcNk1sArzAw |
+| 23.00-CL-23344627 | 5.1.0-23344627 |        | 2022-12-01 | rI9ROK-1oURsD0RM6UqYcNk1sArzAw |
 | 23.10-CL-23443094 |                |        |            | _gVrOnugeJossBkVEk2msv4jt9FDvg |
 | 23.10-CL-23572221 |                |        |            | w2lgMFMmd79UdXHtlUWxH9EZ3U_jEw |
 | 23.20-CL-23659353 |                |        |            | GONPEW1klCRTH0RBCUu1g52Qn4hPlA |
@@ -446,7 +446,7 @@ If you think something is wrong or if you would like to add something, open an i
 | ----------------- | -------------- | ------ | ---------- | ------------------------------ |
 | 27.00-CL-29072304 |                |        |            | 9D35cLnDuvbycWfihUeiuR6MP7PcRA |
 | 27.10-CL-29552510 |                |        |            | jCqdkjlhCqXO8734Zkmpi8Lp4vUHeA |
-| 27.11-CL-29739262 |                |        |            | AtunKhtPq4NHVe1fwkynsUmQJyFEtw |
+| 27.11-CL-29739262 | 5.4.0-29739262 |        | 2023-11-15 | AtunKhtPq4NHVe1fwkynsUmQJyFEtw |
 
 # Season 28
 | Build version     | Engine version | Net CL | Build date | Manifest                       |
