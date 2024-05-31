@@ -478,4 +478,5 @@ If you think something is wrong or if you would like to add something, open an i
 | Build version     | Engine version | Net CL | Build date | Manifest                       |
 | ----------------- | -------------- | ------ | ---------- | ------------------------------ |
 | 30.00-CL-33760522 |                |        |            | 28HcEgy7v5S-xhFEBU65IQzhQcfymQ |
+| 30.00-CL-33962396 |                |        |            | iwzw_8_aWi0Yz0JAuE6lyBUjghnQog |
 
