@@ -487,3 +487,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 30.30-CL-34891016 |                |        |            | i3mQ3LSo6mx1PVWv_0WHolGzWqGpzg |
 | 30.40-CL-35235494 |                |        |            | NoNCgQG-9iiXBwGjo0SmGmXR962VXw |
 
+# Season 31
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 31.00-CL-35447195 |                |        |            | 889Cfv4W7UAZ6Jn0dUyIuV0kX7gTog |
+
