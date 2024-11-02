@@ -499,3 +499,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 31.40-CL-37076506 |                |        |            | X5Tmj2VhA3sjmqNTGEeqU8xXpEewPw |
 | 31.41-CL-37324991 |                |        |            | RX_gx2NL3dBivM5eVEKq7KdXIq5J7Q |
 
+# Season 32
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 32.00-CL-37505882 |                |        |            | AkxvM9XUrVeXNxMtCE22_lRJZukVOA |
+
