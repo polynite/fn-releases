@@ -508,3 +508,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 32.11-CL-38202817 |                |        |            | Kauyq4jGHB-SuyDjakmArJ1VU6QYJw |
 | 32.11-CL-38371047 |                |        |            | arMeOEixqYVgETkDekyCUL2mPefweA |
 
+# Season 33
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 33.00-CL-38324112 |                |        |            | 7coGxGVi9_zAIFE_Ckeq0NvU4Wyktw |
+
