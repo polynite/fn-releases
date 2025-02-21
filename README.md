@@ -520,3 +520,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 33.30-CL-39435251 |                |        |            | GsVhZb61NeMQ6l3TLUqTVaf59hCF_w |
 | 33.30-CL-39768313 |                |        |            | BXWwUKtXpzcdpvSktkKYJxz9lWHpTQ |
 
+# Season 34
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 34.00-CL-40085084 |                |        |            | hrqF3tNiXa4VE1vPtUaGgGjtwIJRSw |
+
