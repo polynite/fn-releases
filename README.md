@@ -524,4 +524,5 @@ If you think something is wrong or if you would like to add something, open an i
 | Build version     | Engine version | Net CL | Build date | Manifest                       |
 | ----------------- | -------------- | ------ | ---------- | ------------------------------ |
 | 34.00-CL-40085084 |                |        |            | hrqF3tNiXa4VE1vPtUaGgGjtwIJRSw |
+| 34.00-CL-40228973 |                |        |            | KGeoWpbdRMr0WpgGD0uaboLMZHeHwQ |
 
