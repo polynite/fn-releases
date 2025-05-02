@@ -534,3 +534,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 34.30-CL-41588354 |                |        |            | 7knTFZlja0FloOOrJ0SCwn8TeftX8g |
 | 34.40-CL-41753727 |                |        |            | YYYKlt6u89n2eZUPeEmXK_NeYPI3SA |
 
+# Season 35
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 35.00-CL-41994699 |                |        |            | hrVnhrvVrziyYtFhcE2CsK95gDeTmw |
+
