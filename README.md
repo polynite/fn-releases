@@ -544,3 +544,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 35.10-CL-42906078 |                |        |            | Mq-qksE2l90syJoTg0aGomtVNeTr4g |
 | 35.20-CL-42911808 |                |        |            | SDgFtofWXxFwiwcKoE6Kb-w0EOVNQg |
 
+# Season 36
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 36.00-CL-43214806 |                |        |            | SuGN477Ipss_-eGCEEm70i2tKpiPWg |
+
