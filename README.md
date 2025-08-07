@@ -556,3 +556,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 36.20-CL-44118662 |                |        |            | kW8SpenWXQr2qUZ9rkmIYPDJyXG_PQ |
 | 36.30-CL-44367537 |                |        |            | _XjtjKicW8w5io6L-EyMonjdtk9BVg |
 
+# Season 37
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 37.00-CL-44501951 |                |        |            | hYYWYnWDGynHRLnl80ul0h8Bl1NEyQ |
+
