@@ -571,3 +571,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 37.50-CL-46578011 |                |        |            | Qr6SKVpYrFciwovcPEqKNl-9ud4D4Q |
 | 37.51-CL-46968237 |                |        |            | Xl_Zp3xuAbQx-w6G1kWb7ZZmcHkRTw |
 
+# Season 38
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 38.00-CL-47291259 |                |        |            | oPW5FTmU5ApxEGZT2km5nqTepveCyQ |
+
