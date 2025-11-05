@@ -575,4 +575,5 @@ If you think something is wrong or if you would like to add something, open an i
 | Build version     | Engine version | Net CL | Build date | Manifest                       |
 | ----------------- | -------------- | ------ | ---------- | ------------------------------ |
 | 38.00-CL-47291259 |                |        |            | oPW5FTmU5ApxEGZT2km5nqTepveCyQ |
+| 38.00-CL-47722112 |                |        |            | VEFhOi9CiI4dik8qSEi7y_0JKPcrMg |
 
