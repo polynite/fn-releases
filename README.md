@@ -579,3 +579,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 38.10-CL-47888945 |                |        |            | MOQ9C4cM7QNhs5E__kmHZVPCIGcZ7w |
 | 38.11-CL-48390828 |                |        |            | 7GbKlAM8jT_VNScM2EWva4HXkVecow |
 
+# Season 39
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 39.00-CL-48444883 |                |        |            | Ja0pqb9rq08mHJY190mqMK9tn8Tt8g |
+
