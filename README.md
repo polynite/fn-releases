@@ -583,4 +583,5 @@ If you think something is wrong or if you would like to add something, open an i
 | Build version     | Engine version | Net CL | Build date | Manifest                       |
 | ----------------- | -------------- | ------ | ---------- | ------------------------------ |
 | 39.00-CL-48444883 |                |        |            | Ja0pqb9rq08mHJY190mqMK9tn8Tt8g |
+| 39.00-CL-48801071 |                |        |            | yT2K18gbDOV9bQ-0EUiiPzEzKaxMxQ |
 
