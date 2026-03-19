@@ -596,3 +596,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 39.50-CL-51043566 |                |        |            | 7AvnHcu7lgrlPkPKmk6Sge69coG7og |
 | 39.51-CL-51287198 |                |        |            | QjcpE4VPjRz88mmJA0eoxAqBFASA7g |
 
+# Season 40
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 40.00-CL-51746096 |                |        |            | ZsaOszlz0BXiphXhlkecb7pTCaHjdQ |
+
