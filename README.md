@@ -600,4 +600,5 @@ If you think something is wrong or if you would like to add something, open an i
 | Build version     | Engine version | Net CL | Build date | Manifest                       |
 | ----------------- | -------------- | ------ | ---------- | ------------------------------ |
 | 40.00-CL-51746096 |                |        |            | ZsaOszlz0BXiphXhlkecb7pTCaHjdQ |
+| 40.00-CL-51995682 |                |        |            | Ivj53DUQ9MyHWzpEaEKVrFwVEcSNnA |
 
