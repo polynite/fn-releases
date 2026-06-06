@@ -608,3 +608,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 40.40-CL-53683214 |                |        |            | hE7R1JeVM8SvAMswVEK3Y4N-UwqtkA |
 | 40.41-CL-54326946 |                |        |            | 75I117xefyK7yPlPREulROSp4HaDvA |
 
+# Season 41
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 41.00-CL-54618515 |                |        |            | UcaaeP2Bi8ObrwuT60SrYiVf3NGxXA |
+
