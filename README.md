@@ -633,3 +633,8 @@ If you think something is wrong or if you would like to add something, open an i
 | 42.40-CL-59086525 |                |        |            | 5o4BGW7GT7AfUgW7VkOT5YNksr6Lxw |
 | 42.40-CL-59343437 |                |        |            | SR4Vu10sKq7lqgC0dEiLZHGjHX9Cog |
 
+# Season 43
+| Build version     | Engine version | Net CL | Build date | Manifest                       |
+| ----------------- | -------------- | ------ | ---------- | ------------------------------ |
+| 43.00-CL-59596594 |                |        |            | 15N2-45kqDxTfcK15kSSne3OkdZ64A |
+
